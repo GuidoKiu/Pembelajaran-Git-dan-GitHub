@@ -22,4 +22,3 @@ Git dan GitHub dapat dikombinasikan dengan syarat
 - Push : Proses melakukan update berupa commit dari Git ke GitHub
 - Pull : Meminta dari GitHub ke Git 
 
--Baris Yang Akan diHapus
