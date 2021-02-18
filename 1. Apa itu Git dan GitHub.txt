@@ -3,3 +3,23 @@ APA ITU GIT DAN GITHUB?
 - Git adalah apliksi desktop sedangkan GitHub adalah website yang berisi Git
 - Git merupakan Version Control System / Revisison System Control / Source Code Management (Penegelola)
 - GitHub adalah layanan cloud untuk mengelola perubahan file
+
+Fungsi VSC
+- Mengecek history perubahan / menyimapan rekam atau snapshoot
+- Kolaborasi dengan tim kerja kelompok
+- Mencatat siapa yang melakukan perubahan pada file atau repository
+- Memungkinan kita kembali ke keadaan sebelum perubahan (checkout)
+
+Daftar Istilah
+- Repository : Kayak Folder
+- Commit : Kayak Save tapi lebih kompleks sepertia akan ditambahkan catatan dan disimpan siapa yang mengubahnya
+- Master Branch : Jalur utama dalam sebuat Directory
+- Branch : cabang dari Master Branch
+- Merge : Menggabungkan satu Branc dengan Branch lainnya
+
+Git dan GitHub dapat dikombinasikan dengan syarat
+- Dilakukan Remote pada Repo di GitHub lalu di Clone ke GIT
+- Push : Proses melakukan update berupa commit dari Git ke GitHub
+- Pull : Meminta dari GitHub ke Git 
+
+-Baris Yang Akan diHapus
