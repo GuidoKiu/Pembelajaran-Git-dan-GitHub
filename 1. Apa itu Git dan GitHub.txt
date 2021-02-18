@@ -1,0 +1,5 @@
+APA ITU GIT DAN GITHUB?
+
+- Git adalah apliksi desktop sedangkan GitHub adalah website yang berisi Git
+- Git merupakan Version Control System / Revisison System Control / Source Code Management (Penegelola)
+- GitHub adalah layanan cloud untuk mengelola perubahan file
