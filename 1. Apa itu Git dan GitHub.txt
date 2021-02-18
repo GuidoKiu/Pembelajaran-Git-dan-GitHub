@@ -5,17 +5,17 @@ APA ITU GIT DAN GITHUB?
 - GitHub adalah layanan cloud untuk mengelola perubahan file
 
 Fungsi VSC
-- Mengecek history perubahan / menyimapan rekam atau snapshoot
+- Mengecek history perubahan / menyimpan rekam atau snapshoot
 - Kolaborasi dengan tim kerja kelompok
 - Mencatat siapa yang melakukan perubahan pada file atau repository
 - Memungkinan kita kembali ke keadaan sebelum perubahan (checkout)
 
 Daftar Istilah
 - Repository : Kayak Folder
-- Commit : Kayak Save tapi lebih kompleks sepertia akan ditambahkan catatan dan disimpan siapa yang mengubahnya
+- Commit : Kayak Save tapi lebih kompleks seperti akan ditambahkan catatan dan disimpan siapa yang mengubahnya
 - Master Branch : Jalur utama dalam sebuat Directory
-- Branch : cabang dari Master Branch
-- Merge : Menggabungkan satu Branc dengan Branch lainnya
+- Branch : Cabang dari Master Branch
+- Merge : Menggabungkan satu Branch dengan Branch lainnya
 
 Git dan GitHub dapat dikombinasikan dengan syarat
 - Dilakukan Remote pada Repo di GitHub lalu di Clone ke GIT
