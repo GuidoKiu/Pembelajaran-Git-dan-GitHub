@@ -1,0 +1,13 @@
+Bekerja dengan GitHub
+
+Yang dilakukan
+1. Melakukan pembuatan akun baru GitHub
+2. Membuat repository baru
+3. Membuat file baru
+4. Melakukan beberapa perubahan yang disertai beberapa commit
+
+Istilah yang ada
+1. Public : Repo bisa dilihat semua orang
+2. Private : Repo hany bisa dilihat oleh pihak tertentu saja
+3. Initialize README : File README.md akan di-inisialisasi otomatis
+4. Main Branch : Sama dengan Master Branch
